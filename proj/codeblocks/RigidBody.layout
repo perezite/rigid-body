@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="..\..\src\Main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="166" topLine="0" />
+	</File>
+	<File name="..\..\src\Math.h" open="1" top="0" tabpos="3">
+		<Cursor position="789" topLine="10" />
+	</File>
+	<File name="..\..\src\Physics.cpp" open="1" top="1" tabpos="2">
+		<Cursor position="62" topLine="0" />
+	</File>
+	<File name="..\..\src\Physics.h" open="1" top="0" tabpos="4">
+		<Cursor position="1302" topLine="34" />
+	</File>
+</CodeBlocks_layout_file>

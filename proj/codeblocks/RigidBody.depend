@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1256667126 source:h:\portfolio\rigidbody\src\physics.cpp
+	<stdio.h>
+	<windows.h>
+	<gl\glut.h>
+	<gl\glu.h>
+	"Physics.h"
+
+1197024778 h:\portfolio\rigidbody\src\physics.h
+	"Math.h"
+
+1197024744 h:\portfolio\rigidbody\src\math.h
+	<math.h>
+	<float.h>
+
+1359643891 source:h:\portfolio\rigidbody\src\main.cpp
+	<windows.h>
+	<stdio.h>
+	<gl\glut.h>
+	"Physics.h"
+
