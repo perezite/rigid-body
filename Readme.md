@@ -1,4 +1,4 @@
-# 2D Rigid Body
+# 2D Rigid Body Simulation
 
 ![Rigid Body Screenshot](https://github.com/perezite/rigid-body/blob/main/docs/screenshots/RigidBodyScreenshot2.png?raw=true)
 
